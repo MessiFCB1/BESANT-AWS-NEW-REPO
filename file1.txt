@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 branch version
+=======
+
+first line
+second line
+third line
+fourth line
+new conflict
+>>>>>>> 3ad80c1c34af682fbc7ae406d21b957fa3a1781e
